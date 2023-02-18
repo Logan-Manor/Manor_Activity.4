@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bio Converter</string>
+
+    <!-- Labels for activity_main label text -->
+    <string name="label_first_name">First Name</string>
+    <string name="label_last_name">Last Name</string>
+    <string name="label_school">School</string>
+    <string name="label_year_of_graduation">Year of Graduation</string>
+    <string name="label_degree">Degree</string>
+    <string name="label_major">Major</string>
+    <string name="label_favorite_activities">Favorite Activities</string>
+    <string name="button_convert">Convert to Bio</string>
+
+    <!-- Place holder text for activity_main -->
+
+
+    <string name="bioTextView"></string>
+
+
+</resources>
